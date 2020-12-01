@@ -25,9 +25,6 @@ You should have received a copy of the GNU General Public License
 along with (Plugin Name). If not, see (http://link to your plugin license).
 */
 
-// how to get the plugins' dir
-$xmasDir = dirname(__FILE__);
-
 // add the stylesheet
 function petj_add_xmas() {
     wp_enqueue_style( 'xmasDeco', plugins_url('xmasBy.css', __FILE__) );
