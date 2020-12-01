@@ -1,7 +1,9 @@
-Xmas-Deco-ThematicChildTheme
-============================
+Xmas-Deco
+=========
 
-Xmas Decorated Child Theme for WordPress based on the bare bone Thematic WordPress theme.
+Xmas Decorations adorned with free xmas decorations thanx to Iconica.
+
+This plugin will add a stylesheet to your theme, and the stylesheet will add xmas-stuff to your theme.
 
 == Icons ==
 Xmas icons by Iconica
