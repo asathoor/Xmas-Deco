@@ -4,21 +4,21 @@
  * purpose:   create xmas vibes
  **/
 p:nth-child(even)::before {
-  content: 'xmas/bells.png';
+  content: url('xmas/bells.png');
 }
 
 p:nth-child(odd)::before {
-  content: 'xmas/candygold.png';
+  content: url('xmas/candygold.png');
 }
 
 h1::before {
-  content: 'xmas/snowman2.png';
+  content: url('xmas/snowman2.png');
 }
 
 h2:nth-child(even)::before {
-  content: 'xmas/wreath1.png';
+  content: url('xmas/wreath1.png');
 }
 
 h2:nth-child(odd)::before {
-  content: 'xmas/xtree1.png';
+  content: url('xmas/xtree1.png');
 }
