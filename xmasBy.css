@@ -11,7 +11,7 @@ p:nth-child(odd)::before {
   content: url('xmas/candygold.png');
 }
 
-h1::before {
+h3::before {
   content: url('xmas/snowman2.png');
 }
 
