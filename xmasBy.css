@@ -1,0 +1,24 @@
+/**
+ * by:        Per Thykjaer Jensen
+ * fíle:      xmasBy.css
+ * purpose:   create xmas vibes
+ **/
+p:nth-child(even)::before {
+  content: 'xmas/bells.png';
+}
+
+p:nth-child(odd)::before {
+  content: 'xmas/candygold.png';
+}
+
+h1::before {
+  content: 'xmas/snowman2.png';
+}
+
+h2:nth-child(even)::before {
+  content: 'xmas/wreath1.png';
+}
+
+h2:nth-child(odd)::before {
+  content: 'xmas/xtree1.png';
+}
