@@ -4,7 +4,7 @@ Plugin Name: XMAS Deco
 Plugin URI:
 Description: Will decorate your theme with xmas stuff. A reissue of a theme, but now more handy as a plugin.
 Version:     2.0
-Author:      Your name (Yay! Here comes fame... )
+Author:      Per Thykjaer Jensen
 Author URI:  https://github.com/asathoor/Xmas-Deco
 License:     GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
