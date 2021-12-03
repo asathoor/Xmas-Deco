@@ -3,15 +3,15 @@
  * fíle:      xmasBy.css
  * purpose:   create xmas vibes
  **/
-p:nth-child(even)::before {
+h3:nth-child(even)::before {
   content: url('xmas/bells.png');
 }
 
-p:nth-child(odd)::before {
+h3:nth-child(odd)::before {
   content: url('xmas/candygold.png');
 }
 
-h3::before {
+h1::before {
   content: url('xmas/snowman2.png');
 }
 
