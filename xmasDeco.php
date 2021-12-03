@@ -2,7 +2,7 @@
 /*
 Plugin Name: XMAS Deco
 Plugin URI:
-Description: Will decorate your theme with xmas stuff. A reissue of a theme, but now more handy as a plugin.
+Description: Will decorate your theme with xmas stuff. A reissue of a theme, but now more handy as a plugin. The icons displayed are published under a free licence by http://iconka.com/
 Version:     3.0
 Author:      Per Thykjaer Jensen
 Author URI:  https://github.com/asathoor/Xmas-Deco
